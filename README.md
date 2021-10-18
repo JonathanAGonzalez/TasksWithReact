@@ -33,20 +33,21 @@ En caso de querer agregar una tarea con los campos vacíos, contamos con una val
 
 [![N|Solid](https://i.ibb.co/JCnNZJt/Captura-de-pantalla-2021-10-17-135542.png)](https://task-react-814eb.web.app/)
 
-#### Tarea agregada:
+## Tarea agregada:
 
 Cuando agregamos la tarea, esta misma se va a situar debajo de nuestro formulario de agregar una tarea brindando, el título, la fecha en que se agregó, la hora y una breve descripción, también contamos con 2 botones, el cual el primero es para editar la tarea, el segundo para eliminar esa tarea.
 
 [![N|Solid](https://i.ibb.co/nr91sW0/Captura-de-pantalla-2021-10-17-135613.png)](https://task-react-814eb.web.app/)
 
-#### Editar una tarea:
+## Editar una tarea:
 
 Cuando queremos editar una tarea, reutilizamos el mismo formulario, el cual va a contar con 2 botones, el primero es para cuando editamos la tarea editar esa misma, y el segundo es por si no queremos editar la tarea y queremos cancelar la tarea.
 
 [![N|Solid](https://i.ibb.co/g4v5Wkz/Captura-de-pantalla-2021-10-17-135625.png)](https://task-react-814eb.web.app/)
 
 - Alerta de editar tarea:
-  [![N|Solid](https://i.ibb.co/5k9R7hf/Captura-de-pantalla-2021-10-17-135647.png)](https://task-react-814eb.web.app/)
+
+[![N|Solid](https://i.ibb.co/5k9R7hf/Captura-de-pantalla-2021-10-17-135647.png)](https://task-react-814eb.web.app/)
 
 ## Eliminar una tarea:
 
